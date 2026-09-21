@@ -73,7 +73,7 @@ Aplicación web para gestionar alquileres vacacionales, diseñada y desarrollada
 - `Next.js` · `React` · `TypeScript`
 - 🔗 [Demo](https://bookiri-coral.vercel.app/)
 
-📁 Puedes ver todos mis proyectos con más detalle en mi [portfolio](https://github.com/DaviiidW).
+📁 Puedes ver todos mis proyectos con más detalle en mi [portfolio](https://david-portfolio-nu-six.vercel.app/).
 
 ## 📫 Contacto
 
